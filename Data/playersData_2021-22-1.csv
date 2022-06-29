@@ -1,0 +1,738 @@
+player_name,team_name,position_name,total_points,now_cost,unavailable,minutes,player_id,roi
+Joel Matip,Liverpool,DEF,170,53,False,2790,224,3.207547169811321
+Jarrod Bowen,West Ham,MID,206,69,False,2987,420,2.9855072463768115
+Conor Coady,Wolves,DEF,138,47,False,3361,429,2.9361702127659575
+Alisson Ramses Becker,Liverpool,GKP,176,61,False,3240,231,2.8852459016393444
+Hugo Lloris,Spurs,GKP,158,55,False,3420,353,2.8727272727272726
+Eric Dier,Spurs,DEF,132,47,False,3071,361,2.8085106382978724
+José Malheiro de Sá,Wolves,GKP,146,52,False,3285,475,2.8076923076923075
+Robert Sánchez,Brighton,GKP,126,45,False,3330,69,2.8
+João Pedro Cavaco Cancelo,Man City,DEF,201,72,False,3227,256,2.7916666666666665
+Matthew Cash,Aston Villa,DEF,147,53,False,3377,44,2.7735849056603774
+Gabriel Magalhães,Arsenal,DEF,146,53,False,3063,23,2.7547169811320753
+Marc Guéhi,Crystal Palace,DEF,123,45,False,3222,477,2.7333333333333334
+Lukasz Fabianski,West Ham,GKP,136,50,False,3330,408,2.72
+Pontus Jansson,Brentford,DEF,122,45,False,3321,76,2.7111111111111112
+Virgil van Dijk,Liverpool,DEF,183,68,False,3060,229,2.6911764705882355
+Bukayo Saka,Arsenal,MID,179,67,False,2978,22,2.671641791044776
+Aymeric Laporte,Man City,DEF,160,60,False,2830,259,2.6666666666666665
+Aaron Ramsdale,Arsenal,GKP,135,51,False,3060,559,2.6470588235294117
+David de Gea,Man Utd,GKP,132,50,False,3420,270,2.64
+Joachim Andersen,Crystal Palace,DEF,124,47,False,2914,488,2.6382978723404253
+James Maddison,Leicester,MID,181,69,False,2454,212,2.6231884057971016
+Kasper Schmeichel,Leicester,GKP,131,50,False,3330,200,2.62
+Vicente Guaita,Crystal Palace,GKP,119,46,False,2655,146,2.5869565217391304
+Marc Cucurella,Brighton,DEF,126,49,False,3089,584,2.5714285714285716
+Andrew Robertson,Liverpool,DEF,186,73,False,2537,234,2.547945205479452
+Ederson Santana de Moraes,Man City,GKP,155,62,False,3330,257,2.5
+James Ward-Prowse,Southampton,MID,159,64,False,3215,341,2.484375
+Trent Alexander-Arnold,Liverpool,DEF,208,84,False,2853,237,2.4761904761904763
+Antonio Rüdiger,Chelsea,DEF,150,61,False,3035,127,2.459016393442623
+Nick Pope,Burnley,GKP,130,53,False,3240,112,2.452830188679245
+Tyrick Mitchell,Crystal Palace,DEF,109,45,False,3101,162,2.422222222222222
+Jordan Pickford,Everton,GKP,116,48,False,3150,170,2.4166666666666665
+Rico Henry,Brentford,DEF,108,45,False,2775,83,2.4
+Leandro Trossard,Brighton,MID,141,59,False,2803,64,2.389830508474576
+Tyrone Mings,Aston Villa,DEF,118,50,False,3188,38,2.36
+Max Kilman,Wolves,DEF,106,45,False,2688,439,2.3555555555555556
+Emiliano Martínez,Aston Villa,GKP,129,55,False,3240,30,2.3454545454545452
+Martin Ødegaard,Arsenal,MID,131,56,False,2782,558,2.3392857142857144
+Saïd Benrahma,West Ham,MID,138,59,False,2162,419,2.3389830508474576
+Conor Gallagher,Crystal Palace,MID,140,60,False,2843,144,2.3333333333333335
+Ben Davies,Spurs,DEF,105,45,False,2537,364,2.3333333333333335
+Teemu Pukki,Norwich,FWD,142,61,False,3253,315,2.3278688524590163
+Ben White,Arsenal,DEF,107,46,False,2880,67,2.3260869565217392
+Thiago Emiliano da Silva,Chelsea,DEF,130,56,False,2649,121,2.3214285714285716
+Jacob Ramsey,Aston Villa,MID,109,47,False,2465,51,2.3191489361702127
+Emmanuel Dennis,Watford,FWD,134,58,False,2579,450,2.310344827586207
+Rodrigo Hernandez,Man City,MID,127,55,False,2884,266,2.309090909090909
+Heung-Min Son,Spurs,MID,258,112,False,3009,359,2.3035714285714284
+Raphael Dias Belloli,Leeds,MID,145,63,False,2916,196,2.3015873015873014
+Bryan Mbeumo,Brentford,MID,119,52,False,2905,96,2.2884615384615383
+Rúben Santos Gato Alves Dias,Man City,DEF,141,62,False,2401,262,2.274193548387097
+Pierre-Emile Højbjerg,Spurs,MID,109,48,False,3196,365,2.2708333333333335
+Romain Saïss,Wolves,DEF,109,48,False,2706,431,2.2708333333333335
+Joël Veltman,Brighton,DEF,95,42,False,2874,62,2.261904761904762
+Marcos Alonso,Chelsea,DEF,128,57,False,2164,122,2.245614035087719
+Jordan Henderson,Liverpool,MID,110,49,False,2592,222,2.2448979591836733
+Emerson Aparecido Leite de Souza Junior,Spurs,DEF,102,46,False,2282,588,2.217391304347826
+Michael Keane,Everton,DEF,102,46,False,2791,169,2.217391304347826
+Davinson Sánchez,Spurs,DEF,93,42,False,1626,367,2.2142857142857144
+Bernardo Mota Veiga de Carvalho e Silva,Man City,MID,155,70,False,2856,261,2.2142857142857144
+Illan Meslier,Leeds,GKP,106,48,False,3384,199,2.2083333333333335
+Mason Mount,Chelsea,MID,169,77,False,2358,138,2.1948051948051948
+Emile Smith Rowe,Arsenal,MID,125,57,False,1909,21,2.192982456140351
+Martin Dubravka,Newcastle,GKP,96,44,False,2340,295,2.1818181818181817
+Wilfried Zaha,Crystal Palace,MID,150,69,False,2759,154,2.1739130434782608
+Reece James,Chelsea,DEF,141,65,False,1863,142,2.169230769230769
+Kieran Tierney,Arsenal,DEF,106,49,False,1916,16,2.163265306122449
+David Raya Martin,Brentford,GKP,95,44,False,2160,80,2.159090909090909
+Matt Targett,Newcastle,DEF,101,47,False,2871,39,2.148936170212766
+Fabian Schär,Newcastle,DEF,88,41,False,2158,305,2.1463414634146343
+Josh Brownhill,Burnley,MID,92,43,False,2952,115,2.13953488372093
+Jan Bednarek,Southampton,DEF,94,44,False,2629,343,2.1363636363636362
+Edouard Mendy,Chelsea,GKP,130,61,False,3060,143,2.1311475409836067
+Aaron Cresswell,West Ham,DEF,115,54,False,2726,411,2.1296296296296298
+Anthony Gordon,Everton,MID,100,47,False,2277,503,2.127659574468085
+Jack Harrison,Leeds,MID,117,55,False,2638,267,2.1272727272727274
+Rayan Ait Nouri,Wolves,DEF,87,41,False,1826,470,2.1219512195121952
+Diogo Jota,Liverpool,MID,175,83,False,2357,240,2.108433734939759
+Harvey Barnes,Leicester,MID,137,65,False,2095,215,2.1076923076923078
+Trevoh Chalobah,Chelsea,DEF,99,47,False,1447,527,2.106382978723404
+Dan Burn,Newcastle,DEF,92,44,False,2461,58,2.090909090909091
+Sergio Reguilón,Spurs,DEF,104,50,False,1914,370,2.08
+Gabriel Teodoro Martinelli Silva,Arsenal,MID,110,53,False,1855,26,2.0754716981132075
+Douglas Luiz Soares de Paulo,Aston Villa,MID,89,43,False,2715,50,2.0697674418604652
+Ethan Pinnock,Brentford,DEF,90,44,False,2694,91,2.0454545454545454
+Mohamed Salah,Liverpool,MID,265,131,False,2758,233,2.0229007633587788
+Christian Nørgaard,Brentford,MID,101,50,False,3054,77,2.02
+Ivan Toney,Brentford,FWD,139,69,False,2908,78,2.0144927536231885
+Tomas Soucek,West Ham,MID,114,57,False,3061,422,2.0
+Tim Krul,Norwich,GKP,90,45,False,2610,314,2.0
+Pablo Fornals,West Ham,MID,117,59,False,2795,423,1.9830508474576272
+Moussa Sissoko,Watford,MID,85,43,False,3220,354,1.9767441860465116
+John McGinn,Aston Villa,MID,110,56,False,3090,35,1.9642857142857142
+Demarai Gray,Everton,MID,106,54,False,2336,484,1.962962962962963
+João Filipe Iria Santos Moutinho,Wolves,MID,96,49,False,2970,426,1.9591836734693877
+Nélson Cabral Semedo,Wolves,DEF,94,48,False,2131,437,1.9583333333333333
+Oriol Romeu Vidal,Southampton,MID,88,45,False,2890,335,1.9555555555555555
+Ben Foster,Watford,GKP,81,42,False,2340,376,1.9285714285714286
+Michail Antonio,West Ham,FWD,140,73,False,2975,413,1.917808219178082
+Lewis Dunk,Brighton,DEF,92,48,False,2573,59,1.9166666666666667
+Tino Livramento,Southampton,DEF,80,42,False,2200,491,1.9047619047619047
+Declan Rice,West Ham,MID,95,50,False,3178,421,1.9
+Frederico Rodrigues de Paula Santos,Man Utd,MID,93,49,False,2026,274,1.8979591836734695
+Youri Tielemans,Leicester,MID,120,64,False,2629,210,1.875
+Jorge Luiz Frello Filho,Chelsea,MID,106,57,False,2271,123,1.8596491228070176
+Kristoffer Ajer,Brentford,DEF,81,44,False,1995,483,1.8409090909090908
+Vitaly Janelt,Brentford,MID,90,49,False,2295,84,1.836734693877551
+Craig Dawson,West Ham,DEF,90,49,False,2752,414,1.836734693877551
+Rúben Diogo da Silva Neves,Wolves,MID,95,52,False,2659,436,1.8269230769230769
+Alexis Mac Allister,Brighton,MID,93,51,False,2112,74,1.8235294117647058
+Fabio Henrique Tavares,Liverpool,MID,97,54,False,2311,232,1.7962962962962963
+Maxwel Cornet,Burnley,MID,104,58,False,1764,578,1.793103448275862
+Charlie Taylor,Burnley,DEF,78,44,False,2730,113,1.7727272727272727
+Emiliano Buendía Stati,Aston Villa,MID,107,61,False,1887,43,1.7540983606557377
+Ollie Watkins,Aston Villa,FWD,131,75,False,2950,40,1.7466666666666666
+Ilkay Gündogan,Man City,MID,124,71,False,1851,250,1.7464788732394365
+Armando Broja,Southampton,FWD,92,53,False,1969,518,1.7358490566037736
+Phil Foden,Man City,MID,137,79,False,2125,265,1.7341772151898733
+Allan Saint-Maximin,Newcastle,FWD,116,67,False,2804,307,1.7313432835820894
+Diego Llorente,Leeds,DEF,77,45,False,2341,190,1.711111111111111
+Cheikhou Kouyaté,Crystal Palace,DEF,77,45,False,1970,150,1.711111111111111
+Kyle Walker-Peters,Southampton,DEF,82,48,False,2630,342,1.7083333333333333
+Abdoulaye Doucouré,Everton,MID,90,53,False,2536,173,1.6981132075471699
+James Tarkowski,Burnley,DEF,83,49,False,3106,98,1.6938775510204083
+Mohamed Elyounoussi,Southampton,MID,90,54,False,2039,517,1.6666666666666667
+Takehiro Tomiyasu,Arsenal,DEF,75,45,False,1680,590,1.6666666666666667
+Lucas Digne,Aston Villa,DEF,83,50,False,2440,168,1.66
+Leander Dendoncker,Wolves,MID,76,46,False,1945,434,1.6521739130434783
+Richarlison de Andrade,Everton,FWD,125,76,False,2522,180,1.644736842105263
+Tariq Lamptey,Brighton,DEF,74,45,False,1547,71,1.6444444444444444
+Manuel Lanzini,West Ham,MID,92,56,False,1777,416,1.6428571428571428
+Stuart Dallas,Leeds,MID,80,49,False,2920,188,1.6326530612244898
+Joel Ward,Crystal Palace,DEF,73,45,False,2486,474,1.6222222222222222
+Kevin De Bruyne,Man City,MID,196,121,False,2196,251,1.6198347107438016
+Yoane Wissa,Brentford,MID,92,57,False,1268,524,1.6140350877192982
+Grant Hanley,Norwich,DEF,71,44,False,2897,319,1.6136363636363635
+N'Golo Kanté,Chelsea,MID,79,49,False,1769,130,1.6122448979591837
+Seamus Coleman,Everton,DEF,79,49,False,2656,165,1.6122448979591837
+Ben Mee,Burnley,DEF,74,46,False,1839,106,1.608695652173913
+Fernando Marçal,Wolves,DEF,67,42,False,1448,432,1.5952380952380953
+Jeffrey Schlupp,Crystal Palace,MID,86,54,False,1840,155,1.5925925925925926
+Ezri Konsa Ngoyo,Aston Villa,DEF,78,49,False,2477,45,1.5918367346938775
+Kiernan Dewsbury-Hall,Leicester,MID,70,44,False,2101,505,1.5909090909090908
+Che Adams,Southampton,FWD,103,65,False,2034,345,1.5846153846153845
+Neal Maupay,Brighton,FWD,98,62,False,2269,63,1.5806451612903225
+Kyle Walker,Man City,DEF,85,54,False,1755,249,1.5740740740740742
+Pascal Groß,Brighton,MID,88,56,False,2033,55,1.5714285714285714
+Dejan Kulusevski,Spurs,MID,99,63,False,1259,701,1.5714285714285714
+Riyad Mahrez,Man City,MID,135,86,False,1485,254,1.569767441860465
+Connor Roberts,Burnley,DEF,69,44,False,1689,585,1.5681818181818181
+Joshua King,Watford,FWD,87,56,False,2244,468,1.5535714285714286
+César Azpilicueta,Chelsea,DEF,87,56,False,2067,119,1.5535714285714286
+Raheem Sterling,Man City,MID,163,105,False,2121,255,1.5523809523809524
+Mateo Kovacic,Chelsea,MID,76,49,False,1552,125,1.5510204081632653
+Sadio Mané,Liverpool,MID,183,118,False,2818,230,1.5508474576271187
+Harry Kane,Spurs,FWD,192,125,False,3231,357,1.536
+Ryan Fraser,Newcastle,MID,78,51,False,1459,298,1.5294117647058822
+Dwight McNeil,Burnley,MID,84,55,False,3104,118,1.5272727272727273
+Daniel James,Leeds,MID,91,60,False,2489,287,1.5166666666666666
+Yves Bissouma,Brighton,MID,66,44,False,2110,70,1.5
+Hee-Chan Hwang,Wolves,FWD,81,54,False,1811,583,1.5
+Andreas Christensen,Chelsea,DEF,69,46,False,1494,133,1.5
+Joseph Willock,Newcastle,MID,79,53,False,2037,19,1.490566037735849
+Vladimir Coufal,West Ham,DEF,70,47,False,2207,418,1.4893617021276595
+Matt Doherty,Spurs,DEF,67,45,False,871,360,1.488888888888889
+Danny Welbeck,Brighton,FWD,89,60,False,1469,447,1.4833333333333334
+Matthew Lowton,Burnley,DEF,65,44,False,1771,110,1.4772727272727273
+Mason Holgate,Everton,DEF,62,42,False,2133,178,1.4761904761904763
+Lucas Rodrigues Moura da Silva,Spurs,MID,87,59,False,1763,362,1.4745762711864407
+Sergi Canós,Brentford,MID,81,55,False,2077,81,1.4727272727272727
+Pierre Lees-Melou,Norwich,MID,70,48,False,2261,471,1.4583333333333333
+Odsonne Edouard,Crystal Palace,FWD,87,60,False,1554,586,1.45
+Chris Wood,Newcastle,FWD,91,63,False,2694,109,1.4444444444444444
+Ismaila Sarr,Watford,MID,81,57,False,1862,399,1.4210526315789473
+Thomas Partey,Arsenal,MID,71,50,False,2027,15,1.42
+Kai Havertz,Chelsea,MID,112,79,False,1802,141,1.4177215189873418
+Timothy Castagne,Leicester,DEF,75,53,False,2124,209,1.4150943396226414
+Kenny McLean,Norwich,MID,69,49,False,2707,318,1.4081632653061225
+Joelinton Cássio Apolinário de Lira,Newcastle,FWD,83,59,False,2554,310,1.4067796610169492
+Gabriel Fernando de Jesus,Man City,FWD,120,86,False,1871,263,1.3953488372093024
+Michael Olise,Crystal Palace,MID,73,53,False,1127,464,1.3773584905660377
+Danny Ings,Aston Villa,FWD,106,77,False,1891,337,1.3766233766233766
+Victor Lindelöf,Man Utd,DEF,66,48,False,2353,284,1.375
+Daniel Amartey,Leicester,DEF,55,40,False,2118,208,1.375
+Nathaniel Clyne,Crystal Palace,DEF,59,43,False,1351,493,1.372093023255814
+Adam Webster,Brighton,DEF,59,43,False,1429,61,1.372093023255814
+Alex Nicolao Telles,Man Utd,DEF,67,49,False,1658,279,1.3673469387755102
+Raphaël Varane,Man Utd,DEF,75,55,False,1829,555,1.3636363636363635
+Liam Cooper,Leeds,DEF,60,44,False,1814,184,1.3636363636363635
+Rodrigo Moreno,Leeds,FWD,85,63,False,2263,187,1.3492063492063493
+Emil Krafth,Newcastle,DEF,58,43,False,1636,303,1.3488372093023255
+Allan Marques Loureiro,Everton,MID,58,43,False,2181,171,1.3488372093023255
+Jacob Murphy,Newcastle,MID,62,46,False,1457,304,1.3478260869565217
+Çaglar Söyüncü,Leicester,DEF,66,49,False,2497,217,1.346938775510204
+Raúl Jiménez,Wolves,FWD,101,75,False,2630,430,1.3466666666666667
+John Stones,Man City,DEF,70,52,False,1117,252,1.3461538461538463
+Milot Rashica,Norwich,MID,70,52,False,2228,449,1.3461538461538463
+Alex Iwobi,Everton,MID,78,58,False,2029,174,1.3448275862068966
+Bruno Guimarães Rodriguez Moura,Newcastle,MID,67,50,False,1031,697,1.34
+Nathan Redmond,Southampton,MID,79,59,False,1827,336,1.3389830508474576
+Jordan Ayew,Crystal Palace,FWD,77,58,False,2012,153,1.3275862068965518
+Cristian Romero,Spurs,DEF,63,48,False,1844,494,1.3125
+Aaron Lennon,Burnley,MID,60,46,False,1541,575,1.3043478260869565
+Cristiano Ronaldo dos Santos Aveiro,Man Utd,FWD,159,122,False,2454,579,1.3032786885245902
+Thiago Alcántara do Nascimento,Liverpool,MID,69,53,False,1527,225,1.3018867924528301
+Bruno Miguel Borges Fernandes,Man Utd,MID,151,116,False,3110,277,1.3017241379310345
+Naby Keita,Liverpool,MID,65,50,False,1169,239,1.3
+Fraser Forster,Southampton,GKP,57,44,False,1710,333,1.2954545454545454
+Jamie Vardy,Leicester,FWD,133,103,False,1801,205,1.2912621359223302
+Mohammed Salisu,Southampton,DEF,58,45,False,2971,351,1.288888888888889
+Jakub Moder,Brighton,MID,58,45,False,1694,75,1.288888888888889
+Ademola Lookman,Leicester,MID,76,59,False,1446,587,1.2881355932203389
+José Diogo Dalot Teixeira,Man Utd,DEF,54,42,False,1797,510,1.2857142857142858
+Max Aarons,Norwich,DEF,55,43,False,2879,326,1.2790697674418605
+Alex McCarthy,Southampton,GKP,55,43,False,1530,334,1.2790697674418605
+Nathan Collins,Burnley,DEF,55,43,False,1670,451,1.2790697674418605
+Luke Ayling,Leeds,DEF,55,43,False,2272,185,1.2790697674418605
+Harry Maguire,Man Utd,DEF,69,54,False,2513,273,1.2777777777777777
+Ryan Sessegnon,Spurs,DEF,56,44,False,1046,368,1.2727272727272727
+Daniel Castelo Podence,Wolves,MID,70,55,False,1475,438,1.2727272727272727
+Andros Townsend,Everton,MID,66,52,False,1452,482,1.2692307692307692
+Juan Camilo Hernández Suárez,Watford,FWD,62,49,False,1138,472,1.2653061224489797
+Scott McTominay,Man Utd,MID,68,54,False,2386,285,1.2592592592592593
+James McArthur,Crystal Palace,MID,54,43,False,1434,148,1.255813953488372
+Granit Xhaka,Arsenal,MID,60,48,False,2327,7,1.25
+Francisco Femenía Far,Watford,DEF,53,43,False,2143,382,1.2325581395348837
+Ben Johnson,West Ham,DEF,48,39,False,1397,425,1.2307692307692308
+Anthony Elanga,Man Utd,MID,59,48,False,1208,512,1.2291666666666667
+Kurt Zouma,West Ham,DEF,66,54,False,2078,128,1.2222222222222223
+Ashley Westwood,Burnley,MID,63,52,False,2286,107,1.2115384615384615
+Nemanja Matic,Man Utd,MID,52,43,False,1375,271,1.2093023255813953
+Ben Gibson,Norwich,DEF,53,44,False,2494,456,1.2045454545454546
+Shane Duffy,Brighton,DEF,48,40,False,1434,56,1.2
+Mateusz Klich,Leeds,MID,61,51,False,2071,186,1.196078431372549
+Craig Cathcart,Watford,DEF,50,42,False,2394,379,1.1904761904761905
+Jonjo Shelvey,Newcastle,MID,63,53,False,1981,291,1.1886792452830188
+Miguel Almirón,Newcastle,MID,59,50,False,1706,308,1.18
+Francisco Machado Mota de Castro Trincão,Wolves,MID,66,56,False,1328,461,1.1785714285714286
+Jay Rodriguez,Burnley,FWD,60,51,False,1365,104,1.1764705882352942
+Philippe Coutinho Correia,Aston Villa,MID,83,71,False,1327,681,1.1690140845070423
+Luke Thomas,Leicester,DEF,50,43,False,1911,219,1.1627906976744187
+Mathias Normann,Norwich,MID,52,45,False,1643,581,1.1555555555555554
+Jean-Philippe Mateta,Crystal Palace,FWD,61,53,False,1138,159,1.150943396226415
+Solomon March,Brighton,MID,61,53,False,1733,60,1.150943396226415
+Nathan Aké,Man City,DEF,54,47,False,919,258,1.148936170212766
+Jack Grealish,Man City,MID,86,75,False,1910,33,1.1466666666666667
+Cédric Soares,Arsenal,DEF,48,42,False,1481,5,1.1428571428571428
+Kelechi Iheanacho,Leicester,FWD,80,70,False,1253,213,1.1428571428571428
+Billy Gilmour,Norwich,MID,49,43,False,1852,145,1.1395348837209303
+Nuno Varela Tavares,Arsenal,DEF,49,43,False,1169,466,1.1395348837209303
+Konstantinos Tsimikas,Liverpool,DEF,42,37,False,874,245,1.135135135135135
+Sean Longstaff,Newcastle,MID,48,43,False,1458,309,1.1162790697674418
+Oleksandr Zinchenko,Man City,DEF,59,53,False,1044,264,1.1132075471698113
+Joshua Sargent,Norwich,FWD,60,54,False,1566,516,1.1111111111111112
+João Pedro Junqueira de Jesus,Watford,FWD,60,54,False,1634,404,1.1111111111111112
+Alexandre Lacazette,Arsenal,FWD,90,81,False,1773,6,1.1111111111111112
+Mathias Jensen,Brentford,MID,54,49,False,1590,86,1.1020408163265305
+Jack Cork,Burnley,MID,48,44,False,1670,101,1.0909090909090908
+Hakim Ziyech,Chelsea,MID,79,73,False,1311,131,1.082191780821918
+Jamaal Lascelles,Newcastle,DEF,47,44,False,2055,299,1.0681818181818181
+Ashley Young,Aston Villa,DEF,50,47,False,1234,52,1.0638297872340425
+Rodrigo Bentancur,Spurs,MID,52,49,False,1360,702,1.0612244897959184
+Callum Wilson,Newcastle,FWD,75,71,False,1386,296,1.056338028169014
+Jadon Sancho,Man Utd,MID,91,89,False,1894,485,1.0224719101123596
+Calum Chambers,Aston Villa,DEF,42,42,False,999,10,1.0
+Tom Cleverley,Watford,MID,48,48,False,1611,381,1.0
+Mason Greenwood,Man Utd,MID,71,71,False,1269,289,1.0
+Adam Armstrong,Southampton,FWD,57,57,False,1409,525,1.0
+Mads Roerslev Rasmussen,Brentford,DEF,41,41,False,1232,89,1.0
+Patson Daka,Leicester,FWD,70,70,False,1152,455,1.0
+Christian Benteke,Crystal Palace,FWD,58,59,False,1132,149,0.9830508474576272
+Enock Mwepu,Brighton,MID,58,59,False,990,462,0.9830508474576272
+Stuart Armstrong,Southampton,MID,57,58,False,1465,339,0.9827586206896551
+Benjamin Chilwell,Chelsea,DEF,55,56,False,541,135,0.9821428571428571
+Juraj Kucka,Watford,MID,54,55,False,1917,495,0.9818181818181818
+Ibrahima Diallo,Southampton,MID,44,45,False,1016,349,0.9777777777777777
+Christian Pulisic,Chelsea,MID,77,79,False,1282,137,0.9746835443037974
+Javier Manquillo,Newcastle,DEF,38,39,False,1258,302,0.9743589743589743
+Edward Nketiah,Arsenal,FWD,55,57,False,823,20,0.9649122807017544
+Ruben Loftus-Cheek,Chelsea,MID,52,54,False,1384,132,0.9629629629629629
+Ben Godfrey,Everton,DEF,45,47,False,2029,179,0.9574468085106383
+Fernando Luiz Rosa,Man City,MID,45,47,False,956,453,0.9574468085106383
+Steven Bergwijn,Spurs,MID,55,59,False,548,369,0.9322033898305084
+Callum Hudson-Odoi,Chelsea,MID,49,53,False,958,140,0.9245283018867925
+Brandon Williams,Norwich,DEF,36,39,False,2119,290,0.9230769230769231
+Luke Shaw,Man Utd,DEF,46,50,False,1600,275,0.92
+Joe Gelhardt,Leeds,FWD,43,47,False,733,577,0.9148936170212766
+Erik Pieters,Burnley,DEF,37,41,False,726,100,0.9024390243902439
+Wout Weghorst,Burnley,FWD,55,62,False,1448,700,0.8870967741935484
+Dimitris Giannoulis,Norwich,DEF,39,44,False,1165,457,0.8863636363636364
+Matej Vydra,Burnley,FWD,46,52,False,665,111,0.8846153846153846
+Paul Pogba,Man Utd,MID,65,74,False,1347,272,0.8783783783783784
+Vitalii Mykolenko,Everton,DEF,42,49,False,1054,675,0.8571428571428571
+Wilfred Ndidi,Leicester,MID,41,48,False,1617,216,0.8541666666666666
+Jonathan Castro Otto,Wolves,DEF,38,45,False,1022,433,0.8444444444444444
+Adam Forshaw,Leeds,MID,38,45,False,1526,552,0.8444444444444444
+Hassane Kamara,Watford,DEF,38,45,False,1622,676,0.8444444444444444
+Dominic Calvert-Lewin,Everton,FWD,64,77,False,1281,177,0.8311688311688312
+Adam Lallana,Brighton,MID,44,53,False,1559,53,0.8301886792452831
+Kalvin Phillips,Leeds,MID,39,47,False,1594,191,0.8297872340425532
+Angelo Ogbonna,West Ham,DEF,40,49,False,921,409,0.8163265306122449
+Pascal Struijk,Leeds,DEF,35,43,False,2050,198,0.813953488372093
+Aaron Wan-Bissaka,Man Utd,DEF,41,51,False,1793,288,0.803921568627451
+Kieran Dowell,Norwich,MID,41,51,False,905,323,0.803921568627451
+Curtis Jones,Liverpool,MID,40,50,False,849,244,0.8
+Samir Caetano de Souza Santos,Watford,DEF,36,45,False,1674,677,0.8
+Romain Perraud,Southampton,DEF,38,48,False,1621,460,0.7916666666666666
+Luis Díaz,Liverpool,MID,64,81,False,957,696,0.7901234567901234
+Adama Traoré,Wolves,MID,44,56,False,1069,435,0.7857142857142857
+James Milner,Liverpool,MID,38,49,False,844,221,0.7755102040816326
+Angus Gunn,Norwich,GKP,31,40,False,810,448,0.775
+Oliver Skipp,Spurs,MID,34,44,False,1346,373,0.7727272727272727
+Marc Albrighton,Leicester,MID,40,52,False,1127,202,0.7692307692307693
+Christian Eriksen,Brentford,MID,43,56,False,938,699,0.7678571428571429
+Romelu Lukaku,Chelsea,FWD,87,114,False,1583,529,0.7631578947368421
+Harry Winks,Spurs,MID,33,44,False,904,366,0.75
+Adam Idah,Norwich,FWD,36,48,False,617,329,0.75
+Boubakary Soumaré,Leicester,MID,36,48,False,1095,458,0.75
+Timo Werner,Chelsea,FWD,62,85,False,1278,134,0.7294117647058823
+Alex Oxlade-Chamberlain,Liverpool,MID,42,58,False,777,227,0.7241379310344828
+Will Hughes,Crystal Palace,MID,34,47,False,1050,386,0.723404255319149
+Jonny Evans,Leicester,DEF,39,54,False,1346,201,0.7222222222222222
+Issa Diop,West Ham,DEF,30,42,False,961,424,0.7142857142857143
+Shandon Baptiste,Brentford,MID,35,49,False,898,499,0.7142857142857143
+Frank Onyeka,Brentford,MID,35,49,False,1040,479,0.7142857142857143
+Roberto Firmino,Liverpool,FWD,62,87,False,980,228,0.7126436781609196
+Tyler Roberts,Leeds,MID,34,48,False,976,193,0.7083333333333334
+Rob Holding,Arsenal,DEF,29,41,False,840,14,0.7073170731707317
+Japhet Tanganga,Spurs,DEF,29,42,False,735,371,0.6904761904761905
+Álvaro Fernández,Brentford,GKP,31,45,False,1080,556,0.6888888888888889
+Jack Butland,Crystal Palace,GKP,30,44,False,765,156,0.6818181818181818
+Ricardo Domingos Barbosa Pereira,Leicester,DEF,35,52,False,990,207,0.6730769230769231
+Marcus Rashford,Man Utd,MID,63,94,False,1224,281,0.6702127659574468
+Jeremy Ngakia,Watford,DEF,28,42,False,896,400,0.6666666666666666
+Albert Sambi Lokonga,Arsenal,MID,32,48,False,1129,478,0.6666666666666666
+Arthur Masuaku,West Ham,DEF,29,44,False,645,417,0.6590909090909091
+Nicolas Pépé,Arsenal,MID,45,69,False,681,17,0.6521739130434783
+Ibrahima Konaté,Liverpool,DEF,33,51,False,990,243,0.6470588235294118
+Daniel Bachmann,Watford,GKP,25,40,False,1080,389,0.625
+Isaac Hayden,Newcastle,MID,28,45,False,1000,306,0.6222222222222222
+Nathan Tella,Southampton,MID,29,47,False,802,346,0.6170212765957447
+Ashley Barnes,Burnley,FWD,32,52,False,793,105,0.6153846153846154
+Ayoze Pérez,Leicester,MID,35,57,False,438,211,0.6140350877192983
+Mohamed Naser El Sayed Elneny,Arsenal,MID,27,44,False,801,12,0.6136363636363636
+Malang Sarr,Chelsea,DEF,30,49,False,544,501,0.6122448979591837
+Johann Berg Gudmundsson,Burnley,MID,33,54,False,1097,108,0.6111111111111112
+Moisés Caicedo,Brighton,MID,27,45,False,660,538,0.6
+Imrân Louza,Watford,MID,31,52,False,1415,403,0.5961538461538461
+James Justin,Leicester,DEF,29,49,False,996,218,0.5918367346938775
+Leon Bailey,Aston Villa,MID,37,63,False,750,492,0.5873015873015873
+Adam Masina,Watford,DEF,25,43,False,1075,390,0.5813953488372093
+Saman Ghoddos,Brentford,MID,30,52,False,524,85,0.5769230769230769
+Kieran Trippier,Newcastle,DEF,28,49,False,429,678,0.5714285714285714
+Bamidele Alli,Everton,MID,35,62,False,985,363,0.5645161290322581
+Nampalys Mendy,Leicester,MID,24,43,False,1032,203,0.5581395348837209
+Takumi Minamino,Liverpool,MID,28,51,False,178,236,0.5490196078431373
+Donny van de Beek,Everton,MID,31,57,False,550,282,0.543859649122807
+Fabio Silva,Wolves,FWD,30,56,False,562,445,0.5357142857142857
+Nikola Vlasic,West Ham,MID,30,56,False,549,582,0.5357142857142857
+Robin Koch,Leeds,DEF,23,43,False,1572,194,0.5348837209302325
+Edo Kayembe,Watford,MID,24,45,False,795,679,0.5333333333333333
+Eberechi Eze,Crystal Palace,MID,31,59,False,599,160,0.5254237288135594
+Lukas Rupp,Norwich,MID,23,44,False,759,317,0.5227272727272727
+Mads Bech Sørensen,Brentford,DEF,22,43,False,833,90,0.5116279069767442
+Salomón Rondón,Everton,FWD,30,60,False,779,591,0.5
+Marvelous Nakamba,Aston Villa,MID,22,44,False,899,41,0.5
+Andriy Yarmolenko,West Ham,MID,25,50,False,303,412,0.5
+Ken Sema,Watford,MID,26,52,False,844,391,0.5
+Yerry Mina,Everton,DEF,24,49,False,844,175,0.4897959183673469
+Jonjoe Kenny,Everton,DEF,21,43,False,1015,502,0.4883720930232558
+Christian Kabasele,Watford,DEF,21,43,False,1190,384,0.4883720930232558
+Héctor Junior Firpo Adames,Leeds,DEF,22,47,False,1709,463,0.46808510638297873
+Joseph Gomez,Liverpool,DEF,22,47,False,330,238,0.46808510638297873
+Divock Origi,Liverpool,FWD,22,48,False,126,235,0.4583333333333333
+Pierre-Emerick Aubameyang,Arsenal,FWD,44,96,False,1036,4,0.4583333333333333
+Sam Byram,Norwich,DEF,20,44,False,1023,321,0.45454545454545453
+Kortney Hause,Aston Villa,DEF,20,44,False,397,36,0.45454545454545453
+Karl Darlow,Newcastle,GKP,20,45,False,720,294,0.4444444444444444
+Mark Noble,West Ham,MID,19,43,False,325,406,0.4418604651162791
+Jesse Lingard,Man Utd,MID,29,67,False,354,276,0.43283582089552236
+Jamie Shackleton,Leeds,MID,19,44,False,704,197,0.4318181818181818
+Lyanco Evangelista Silveira Neves Vojnovic,Southampton,DEF,19,44,False,906,567,0.4318181818181818
+Fabian Delph,Everton,MID,18,42,False,660,163,0.42857142857142855
+Kepa Arrizabalaga,Chelsea,GKP,19,45,False,360,129,0.4222222222222222
+William Troost-Ekong,Watford,DEF,18,43,False,1388,387,0.4186046511627907
+Ozan Kabak,Norwich,DEF,18,43,False,923,580,0.4186046511627907
+Matt Ritchie,Newcastle,DEF,20,49,False,1333,292,0.40816326530612246
+Edinson Cavani,Man Utd,FWD,34,84,False,760,269,0.40476190476190477
+Mathias Jorgensen,Brentford,DEF,18,45,False,516,594,0.4
+Wesley Fofana,Leicester,DEF,17,43,False,630,220,0.3953488372093023
+James Tomkins,Crystal Palace,DEF,17,43,False,545,147,0.3953488372093023
+Anwar El Ghazi,Everton,MID,22,56,False,392,42,0.39285714285714285
+Ferran Torres,Man City,MID,26,67,False,303,268,0.3880597014925373
+Tanguy Ndombele,Spurs,MID,22,57,False,481,375,0.38596491228070173
+Przemyslaw Placheta,Norwich,MID,18,47,False,499,328,0.3829787234042553
+André Filipe Tavares Gomes,Everton,MID,18,49,False,614,172,0.3673469387755102
+Luka Milivojevic,Crystal Palace,MID,19,52,False,767,152,0.36538461538461536
+Francisco Jorge Tomás Oliveira,Wolves,MID,20,55,False,203,689,0.36363636363636365
+Jonathan Rowe,Norwich,MID,16,44,False,208,648,0.36363636363636365
+Patrick Bamford,Leeds,FWD,28,77,False,557,189,0.36363636363636365
+Ki-Jana Hoever,Wolves,DEF,14,39,False,306,443,0.358974358974359
+Andrew Omobamidele,Norwich,DEF,14,39,False,381,331,0.358974358974359
+Carney Chukwuemeka,Aston Villa,MID,16,45,False,291,526,0.35555555555555557
+Pedro Lomba Neto,Wolves,MID,22,62,False,459,441,0.3548387096774194
+Shane Long,Southampton,FWD,19,54,False,300,519,0.35185185185185186
+Willy Boly,Wolves,DEF,17,49,False,900,428,0.3469387755102041
+Christos Tzolis,Norwich,MID,16,48,False,326,528,0.3333333333333333
+Saúl Ñíguez,Chelsea,MID,16,49,False,478,592,0.32653061224489793
+Sam Greenwood,Leeds,FWD,15,46,False,231,550,0.32608695652173914
+Asmir Begović,Everton,GKP,13,40,False,270,481,0.325
+Ciaran Clark,Newcastle,DEF,14,44,False,1012,293,0.3181818181818182
+Axel Tuanzebe,Man Utd,DEF,14,44,False,505,283,0.3181818181818182
+Jack Stephens,Southampton,DEF,12,44,False,810,338,0.2727272727272727
+Steven Alzate,Brighton,MID,13,48,False,401,73,0.2708333333333333
+Ross Barkley,Chelsea,MID,14,52,False,174,124,0.2692307692307692
+Morgan Sanson,Aston Villa,MID,13,50,False,349,34,0.26
+Charlie Goode,Brentford,DEF,10,39,False,448,87,0.2564102564102564
+Federico Fernández,Newcastle,DEF,11,43,False,521,465,0.2558139534883721
+Moussa Djenepo,Southampton,MID,13,52,False,452,350,0.25
+Tom Davies,Everton,MID,12,48,False,230,176,0.25
+Jamal Lewis,Newcastle,DEF,10,42,False,261,311,0.23809523809523808
+Jannik Vestergaard,Leicester,DEF,11,47,False,563,340,0.23404255319148937
+Dan Gosling,Watford,MID,11,47,False,164,378,0.23404255319148937
+Oghenekaro Peter Etebo,Watford,MID,10,43,False,396,467,0.23255813953488372
+Ainsley Maitland-Niles,Arsenal,MID,12,52,False,263,13,0.23076923076923078
+Yan Valery,Southampton,DEF,9,39,False,369,546,0.23076923076923078
+Bertrand Traoré,Aston Villa,MID,13,57,False,212,32,0.22807017543859648
+Harvey Elliott,Liverpool,MID,12,53,False,344,506,0.22641509433962265
+Bernd Leno,Arsenal,GKP,10,45,False,360,1,0.2222222222222222
+Juan Mata,Man Utd,MID,10,47,False,230,459,0.2127659574468085
+Jacob Sørensen,Norwich,DEF,9,43,False,600,327,0.20930232558139536
+Freddie Woodman,Newcastle,GKP,9,43,False,360,513,0.20930232558139536
+Marcus Forss,Brentford,FWD,11,53,False,203,88,0.20754716981132076
+Theo Walcott,Southampton,MID,12,58,False,376,332,0.20689655172413793
+Cole Palmer,Man City,MID,9,45,False,121,507,0.2
+Ozan Tufan,Watford,MID,10,50,False,334,557,0.2
+Todd Cantwell,Norwich,MID,10,53,False,438,325,0.18867924528301888
+Giovani Lo Celso,Spurs,MID,11,59,False,231,372,0.1864406779661017
+Caoimhin Kelleher,Liverpool,GKP,8,43,False,180,242,0.18604651162790697
+Anthony Martial,Man Utd,FWD,14,76,False,207,278,0.18421052631578946
+Hamza Choudhury,Leicester,MID,8,44,False,284,214,0.18181818181818182
+Kevin Long,Burnley,DEF,7,40,False,408,103,0.175
+Jarrad Branthwaite,Everton,DEF,7,40,False,387,544,0.175
+Danny Rose,Watford,DEF,7,42,False,688,377,0.16666666666666666
+Jeff Hendrick,Newcastle,MID,8,48,False,69,297,0.16666666666666666
+Ryan Fredericks,West Ham,DEF,7,44,False,303,415,0.1590909090909091
+Luke Cundle,Wolves,MID,7,44,False,179,547,0.1590909090909091
+Zack Steffen,Man City,GKP,7,44,False,90,260,0.1590909090909091
+Bryan Gil Salvatierra,Spurs,MID,9,57,False,86,487,0.15789473684210525
+Paul Dummett,Newcastle,DEF,7,45,False,197,301,0.15555555555555556
+Samuel Kalu,Watford,MID,7,49,False,221,698,0.14285714285714285
+Toti António Gomes,Wolves,DEF,6,44,False,360,685,0.13636363636363635
+Dwight Gayle,Newcastle,FWD,7,52,False,34,300,0.1346153846153846
+Crysencio Summerville,Leeds,MID,6,45,False,126,551,0.13333333333333333
+Pelenda Joshua Dasilva,Brentford,MID,7,53,False,250,82,0.1320754716981132
+Francisco Sierralta,Watford,DEF,5,43,False,427,396,0.11627906976744186
+Nicolas Nkoulou,Watford,DEF,5,44,False,167,618,0.11363636363636363
+William Smallbone,Southampton,MID,5,45,False,132,347,0.1111111111111111
+Jeremy Sarmiento,Brighton,MID,5,45,False,44,612,0.1111111111111111
+Neco Williams,Liverpool,DEF,4,38,False,7,246,0.10526315789473684
+Charlie Cresswell,Leeds,DEF,4,40,False,140,563,0.1
+Aaron Connolly,Brighton,FWD,5,53,False,154,72,0.09433962264150944
+Jesurun Rak-Sakyi,Crystal Palace,MID,4,44,False,79,541,0.09090909090909091
+Dale Stephens,Burnley,MID,4,44,False,123,102,0.09090909090909091
+Mads Bidstrup,Brentford,MID,4,44,False,36,97,0.09090909090909091
+Wayne Hennessey,Burnley,GKP,4,45,False,180,480,0.08888888888888889
+Robert Kenedy Nunes do Nascimento,Chelsea,DEF,4,45,False,58,690,0.08888888888888889
+Phil Jones,Man Utd,DEF,4,45,False,161,632,0.08888888888888889
+Tim Iroegbunam,Aston Villa,MID,4,45,False,90,638,0.08888888888888889
+Ryan Bertrand,Leicester,DEF,4,46,False,337,473,0.08695652173913043
+Jairo Riedewald,Crystal Palace,MID,4,47,False,116,157,0.0851063829787234
+Danny Ward,Leicester,GKP,3,40,False,90,204,0.075
+Joe Rodon,Spurs,DEF,3,42,False,87,374,0.07142857142857142
+John Ruddy,Wolves,GKP,3,43,False,135,452,0.06976744186046512
+Dominic Thompson,Brentford,DEF,3,44,False,146,498,0.06818181818181818
+Jean-Philippe Gbamin,Everton,MID,3,44,False,65,504,0.06818181818181818
+Tyler Onyango,Everton,MID,3,45,False,27,630,0.06666666666666667
+Lewis Bate,Leeds,MID,3,45,False,145,624,0.06666666666666667
+Tony Springett,Norwich,MID,3,45,False,140,716,0.06666666666666667
+Cameron Archer,Aston Villa,FWD,3,45,False,24,568,0.06666666666666667
+Ashley Fletcher,Watford,FWD,3,48,False,28,395,0.0625
+Benjamin Mendy,Man City,DEF,3,52,False,78,253,0.057692307692307696
+Jason Steele,Brighton,GKP,2,39,False,90,54,0.05128205128205128
+Leo Fuhr Hjelde,Leeds,DEF,2,40,False,148,608,0.05
+Willy Caballero,Southampton,GKP,2,42,False,180,641,0.047619047619047616
+Kristoffer Klaesson,Leeds,GKP,2,43,False,35,490,0.046511627906976744
+James McAtee,Man City,MID,2,44,False,18,629,0.045454545454545456
+Taylor Richards,Brighton,MID,2,45,False,23,537,0.044444444444444446
+Jonas Lössl,Brentford,GKP,2,45,False,180,673,0.044444444444444446
+Lewis Dobbin,Everton,FWD,2,45,False,30,607,0.044444444444444446
+Alejandro Garnacho Ferreyra,Man Utd,MID,2,45,False,12,723,0.044444444444444446
+Ellis Simms,Everton,FWD,2,45,False,61,602,0.044444444444444446
+Folarin Balogun,Arsenal,FWD,2,47,False,69,530,0.0425531914893617
+Alphonse Areola,West Ham,GKP,2,47,False,90,489,0.0425531914893617
+Eric Bailly,Man Utd,DEF,2,49,False,216,286,0.04081632653061224
+Troy Deeney,Watford,FWD,2,54,False,23,380,0.037037037037037035
+Jed Steer,Aston Villa,GKP,1,39,False,90,28,0.02564102564102564
+Finley Stevens,Brentford,DEF,1,39,False,14,569,0.02564102564102564
+Conrad Egan-Riley,Man City,DEF,1,40,False,3,651,0.025
+Robin Olsen,Aston Villa,GKP,1,40,False,90,691,0.025
+Harrison Ashby,West Ham,DEF,1,40,False,6,617,0.025
+Pablo Marí,Arsenal,DEF,1,42,False,180,8,0.023809523809523808
+Stuart McKinstry,Leeds,MID,1,43,False,3,601,0.023255813953488372
+Chem Campbell,Wolves,MID,1,44,False,12,548,0.022727272727272728
+Alex Kral,West Ham,MID,1,44,False,1,589,0.022727272727272728
+Jürgen Locadia,Brighton,FWD,1,44,False,22,595,0.022727272727272728
+Liam McCarron,Leeds,MID,1,44,False,9,576,0.022727272727272728
+Kasey McAteer,Leicester,MID,1,45,False,2,647,0.022222222222222223
+Lewis Brunt,Leicester,MID,1,45,False,23,646,0.022222222222222223
+Nathan Young-Coombes,Brentford,FWD,1,45,False,3,640,0.022222222222222223
+Liam Delap,Man City,FWD,1,45,False,8,704,0.022222222222222223
+Tyler Morton,Liverpool,MID,1,45,False,65,620,0.022222222222222223
+Shola Shoretire,Man Utd,MID,1,45,False,15,727,0.022222222222222223
+Hannibal Mejbri,Man Utd,MID,1,45,False,67,706,0.022222222222222223
+Keinan Davis,Aston Villa,FWD,1,45,False,11,49,0.022222222222222223
+Emerson Palmieri dos Santos,Chelsea,DEF,1,45,False,4,539,0.022222222222222223
+Nathan Ferguson,Crystal Palace,DEF,1,45,False,8,161,0.022222222222222223
+Isaac Price,Everton,MID,1,45,False,13,718,0.022222222222222223
+Kaide Gordon,Liverpool,MID,1,45,False,8,625,0.022222222222222223
+Dane Scarlett,Spurs,FWD,1,45,False,3,520,0.022222222222222223
+Sonny Perkins,West Ham,MID,1,45,False,3,634,0.022222222222222223
+Daniel Chesters,West Ham,MID,1,45,False,1,710,0.022222222222222223
+Morgan Gibbs-White,Wolves,MID,1,45,False,7,440,0.022222222222222223
+Evan Ferguson,Brighton,FWD,1,45,False,22,655,0.022222222222222223
+Jaden Philogene-Bidace,Aston Villa,MID,1,50,False,4,497,0.02
+Kayky da Silva Chagas,Man City,FWD,1,50,False,6,663,0.02
+Cenk Tosun,Everton,FWD,1,50,False,5,622,0.02
+Reiss Nelson,Arsenal,MID,1,50,False,19,531,0.02
+Tariqe Fosu-Henry,Brentford,MID,1,51,False,16,79,0.0196078431372549
+Mahmoud Ahmed Ibrahim Hassan,Aston Villa,MID,1,54,False,10,37,0.018518518518518517
+Wesley Moraes,Aston Villa,FWD,1,54,False,1,47,0.018518518518518517
+Hélder Wander Sousa de Azevedo e Costa,Leeds,MID,1,54,False,21,192,0.018518518518518517
+Moise Kean,Everton,FWD,1,60,False,1,564,0.016666666666666666
+Maxwell Haygarth,Brentford,MID,0,45,False,0,628,0.0
+Charlie Patino,Arsenal,MID,0,45,False,0,664,0.0
+Hugo Bueno,Wolves,DEF,0,40,False,0,635,0.0
+Myles Peart-Harris,Brentford,MID,0,45,False,0,662,0.0
+Paris Maghoma,Brentford,MID,0,45,False,0,614,0.0
+Jarell Quansah,Liverpool,DEF,0,40,False,0,660,0.0
+Mattéo Guendouzi,Arsenal,MID,0,45,False,0,25,0.0
+Owen Beck,Liverpool,DEF,0,40,False,0,627,0.0
+Conor Bradley,Liverpool,DEF,0,40,False,0,626,0.0
+Lucas Torreira,Arsenal,MID,0,45,False,0,18,0.0
+Christian Marques,Wolves,DEF,0,40,False,0,549,0.0
+Arthur Okonkwo,Arsenal,GKP,0,39,False,0,572,0.0
+Jan Zamburek,Brentford,MID,0,44,False,0,93,0.0
+Omari Hutchinson,Arsenal,MID,0,45,False,0,692,0.0
+Marcelo Flores,Arsenal,MID,0,45,False,0,720,0.0
+Álvaro Fernández,Man Utd,DEF,0,40,False,0,728,0.0
+Viljami Sinisalo,Aston Villa,GKP,0,40,False,0,596,0.0
+Karl Hein,Arsenal,GKP,0,40,False,0,532,0.0
+Miguel Azeez,Arsenal,MID,0,45,False,0,721,0.0
+Luke Mbete,Man City,DEF,0,39,False,0,603,0.0
+Joshua Wilson-Esbrand,Man City,DEF,0,39,False,0,604,0.0
+Yerson Mosquera Valdelamar,Wolves,DEF,0,44,False,0,446,0.0
+Conor Hourihane,Aston Villa,MID,0,49,False,0,29,0.0
+Tommi O'Reilly,Aston Villa,MID,0,45,False,0,713,0.0
+Benjamin Chrisene,Aston Villa,MID,0,45,False,0,703,0.0
+Aaron Ramsey,Aston Villa,MID,0,44,False,0,496,0.0
+Salah-Eddine Oulad M'hand,Arsenal,MID,0,45,False,0,693,0.0
+Christoph Zimmermann,Norwich,DEF,0,44,False,156,324,0.0
+Willian Borges Da Silva,Arsenal,MID,0,63,False,0,3,0.0
+Serge Aurier,Spurs,DEF,0,49,False,0,358,0.0
+Cieran Slicker,Man City,GKP,0,40,False,0,615,0.0
+Jamal Baptiste,West Ham,DEF,0,39,False,0,554,0.0
+Scott Carson,Man City,GKP,0,39,False,0,593,0.0
+Frederik Alves,West Ham,DEF,0,40,False,0,521,0.0
+Marcelo de Araújo Pitaluga Filho,Liverpool,GKP,0,40,False,0,656,0.0
+Adrián San Miguel del Castillo,Liverpool,GKP,0,43,False,0,223,0.0
+Francisco Casilla Cortés,Leeds,GKP,0,45,False,0,183,0.0
+Tobi Omole,Spurs,DEF,0,39,False,0,598,0.0
+Marcel Lavinier,Spurs,DEF,0,40,False,0,724,0.0
+Eldin Jakupovic,Leicester,GKP,0,39,False,0,573,0.0
+Harry Tyrer,Everton,GKP,0,40,False,0,616,0.0
+Andy Lonergan,Everton,GKP,0,39,False,0,571,0.0
+João Virgínia,Everton,GKP,0,40,False,0,181,0.0
+Marc Navarro,Watford,DEF,0,40,False,0,398,0.0
+Remi Matthews,Crystal Palace,GKP,0,39,False,0,561,0.0
+Ben Wilmot,Watford,DEF,0,45,False,0,401,0.0
+Matthew Pollock,Watford,DEF,0,40,False,0,454,0.0
+Mathew Ryan,Brighton,GKP,0,45,False,0,65,0.0
+Kjell Scherpen,Brighton,GKP,0,45,False,0,476,0.0
+James Morris,Watford,DEF,0,40,False,0,633,0.0
+Marcus Bettinelli,Chelsea,GKP,0,40,False,0,606,0.0
+Sam Waller,Burnley,GKP,0,40,False,0,708,0.0
+Bailey Peacock-Farrell,Burnley,GKP,0,45,False,0,117,0.0
+Winston Reid,West Ham,DEF,0,39,False,0,410,0.0
+Will Norris,Burnley,GKP,0,43,False,0,114,0.0
+Dean Henderson,Man Utd,GKP,0,47,False,0,280,0.0
+Toby Alderweireld,Spurs,DEF,0,50,False,0,355,0.0
+Filip Marschall,Aston Villa,GKP,0,40,False,0,650,0.0
+Thierry Small,Southampton,DEF,0,40,False,0,667,0.0
+James Storer,Wolves,GKP,0,40,False,0,621,0.0
+Louie Moulden,Wolves,GKP,0,40,False,0,611,0.0
+Andreas Söndergaard,Wolves,GKP,0,39,False,0,444,0.0
+Rui Pedro dos Santos Patrício,Wolves,GKP,0,50,False,0,427,0.0
+Thomas McGill,Brighton,GKP,0,40,False,0,688,0.0
+Darren Randolph,West Ham,GKP,0,43,False,0,407,0.0
+Ellery Balcombe,Brentford,GKP,0,40,False,0,92,0.0
+Patrik Gunnarsson,Brentford,GKP,0,39,False,0,94,0.0
+Vincent Angelini,Watford,GKP,0,40,False,0,642,0.0
+Robert Elliot,Watford,GKP,0,40,False,0,574,0.0
+Brandon Austin,Spurs,GKP,0,40,False,0,659,0.0
+Bali Mumba,Norwich,DEF,0,39,False,45,515,0.0
+Pierluigi Gollini,Spurs,GKP,0,42,False,0,486,0.0
+Jonathan Tomkinson,Norwich,DEF,0,40,False,0,643,0.0
+Joe Hart,Spurs,GKP,0,45,False,0,352,0.0
+Harry Lewis,Southampton,GKP,0,39,False,0,637,0.0
+Jon McCracken,Norwich,GKP,0,40,False,0,666,0.0
+Michael McGovern,Norwich,GKP,0,39,False,0,313,0.0
+Mark Gillespie,Newcastle,GKP,0,39,False,0,514,0.0
+Matthew Cox,Brentford,GKP,0,40,False,0,619,0.0
+Pierre Ekwah,West Ham,DEF,0,40,False,0,682,0.0
+Tom Heaton,Man Utd,GKP,0,39,False,0,509,0.0
+Ben Davies,Liverpool,DEF,0,40,False,0,248,0.0
+Ajibola Alese,West Ham,DEF,0,40,False,0,644,0.0
+Dynel Simeu,Southampton,DEF,0,40,False,0,665,0.0
+Robert Street,Crystal Palace,FWD,0,45,False,0,542,0.0
+Niels Nkounkou,Everton,DEF,0,40,False,0,570,0.0
+Rhys Williams,Liverpool,DEF,0,44,False,0,247,0.0
+Ryan Alebiosu,Arsenal,DEF,0,40,False,0,695,0.0
+Patrick Cutrone,Wolves,FWD,0,50,False,0,523,0.0
+Kwadwo Baah,Watford,MID,0,43,False,0,405,0.0
+Héctor Bellerín,Arsenal,DEF,0,48,False,0,9,0.0
+Sead Kolasinac,Arsenal,DEF,0,42,False,91,11,0.0
+Joseph Hungbo,Watford,MID,0,45,False,0,402,0.0
+Domingos Quina,Watford,MID,0,45,False,0,397,0.0
+Ayotomiwa Dele-Bashiru,Watford,MID,0,45,False,0,394,0.0
+Konstantinos Mavropanos,Arsenal,DEF,0,45,False,0,24,0.0
+William Saliba,Arsenal,DEF,0,45,False,0,27,0.0
+Philip Zinckernagel,Watford,MID,0,55,False,0,392,0.0
+Nathaniel Chalobah,Watford,MID,0,50,False,0,385,0.0
+Matthew Craig,Spurs,MID,0,45,False,0,729,0.0
+Zach Awe,Arsenal,DEF,0,40,False,0,705,0.0
+Adrian Blake,Watford,MID,0,45,False,0,733,0.0
+Zak Swanson,Arsenal,DEF,0,40,False,0,711,0.0
+Mazeed Ogungbo,Arsenal,DEF,0,40,False,0,719,0.0
+Alex Kirk,Arsenal,DEF,0,40,False,0,730,0.0
+Jamie Bowden,Spurs,MID,0,45,False,0,717,0.0
+Björn Engels,Aston Villa,DEF,0,45,False,0,31,0.0
+Alfie Devine,Spurs,MID,0,45,False,0,714,0.0
+Harvey White,Spurs,MID,0,44,False,0,668,0.0
+Dilan Markanday,Spurs,MID,0,45,False,0,597,0.0
+Frédéric Guilbert,Aston Villa,DEF,0,45,False,0,46,0.0
+Erik Lamela,Spurs,MID,0,60,False,0,356,0.0
+Lamare Bogarde,Aston Villa,DEF,0,40,False,0,610,0.0
+Josh Feeney,Aston Villa,DEF,0,40,False,0,670,0.0
+Kamil Conteh,Watford,MID,0,45,False,0,669,0.0
+Jack Grieves,Watford,FWD,0,45,False,0,734,0.0
+Davy Pröpper,Brighton,MID,0,45,False,0,57,0.0
+Bruno André Cavaco Jordão,Wolves,MID,0,45,False,0,661,0.0
+Michy Batshuayi,Chelsea,FWD,0,55,False,0,126,0.0
+Nathan Broadhead,Everton,FWD,0,45,False,0,545,0.0
+Olivier Giroud,Chelsea,FWD,0,65,False,0,120,0.0
+Joseph McGlynn,Burnley,FWD,0,45,False,0,735,0.0
+Lewis Richardson,Burnley,FWD,0,44,False,0,533,0.0
+Andi Zeqiri,Brighton,FWD,0,45,False,0,535,0.0
+Florin Andone,Brighton,FWD,0,50,False,0,500,0.0
+Halil Dervişoğlu,Brentford,FWD,0,54,False,0,95,0.0
+Mbwana Ally Samatta,Aston Villa,FWD,0,55,False,0,48,0.0
+Mika Biereth,Arsenal,FWD,0,45,False,0,694,0.0
+Ryan Giles,Wolves,MID,0,45,False,0,687,0.0
+Jordan Hugill,Norwich,FWD,0,54,False,0,322,0.0
+Thomas Dickson-Peters,Norwich,FWD,0,45,False,0,649,0.0
+Tiago Çukur,Watford,FWD,0,45,False,0,732,0.0
+Abu Kamara,Norwich,FWD,0,45,False,0,715,0.0
+Daniel N'Lundulu,Southampton,FWD,0,45,False,0,344,0.0
+Michael Obafemi,Southampton,FWD,0,45,False,0,348,0.0
+Owen Otasowie,Wolves,MID,0,45,False,0,442,0.0
+Armstrong Oko-Flex,West Ham,MID,0,44,False,0,652,0.0
+Andre Gray,Watford,FWD,0,54,False,0,383,0.0
+Stipe Perica,Watford,FWD,0,45,False,0,388,0.0
+Isaac Success Ajayi,Watford,FWD,0,50,False,0,393,0.0
+Conor Coventry,West Ham,MID,0,45,False,0,522,0.0
+Adedapo Awokoya-Mebude,Watford,FWD,0,45,False,0,469,0.0
+Rúnar Alex Rúnarsson,Arsenal,GKP,0,40,False,0,2,0.0
+Shaqai Forde,Watford,FWD,0,45,False,0,725,0.0
+Kaine Hayden,Aston Villa,DEF,0,40,False,0,684,0.0
+Tyler Dibling,Southampton,MID,0,45,False,0,731,0.0
+Kgaogelo Chauke,Southampton,MID,0,45,False,0,680,0.0
+Liam Gibbs,Norwich,MID,0,45,False,0,683,0.0
+Reece Hannam,Crystal Palace,DEF,0,39,False,0,540,0.0
+Tayo Adaramola,Crystal Palace,DEF,0,40,False,0,709,0.0
+Ian Carlo Poveda-Ocampo,Leeds,MID,0,45,False,0,195,0.0
+Pablo Hernández Domínguez,Leeds,MID,0,55,False,0,182,0.0
+Tammy Abraham,Chelsea,FWD,0,65,False,0,136,0.0
+Reece Welch,Everton,DEF,0,40,False,0,623,0.0
+Nathan Patterson,Everton,DEF,0,41,False,0,674,0.0
+Dennis Praet,Leicester,MID,0,49,False,0,206,0.0
+Charlie Whitaker,Everton,MID,0,45,False,0,613,0.0
+Bernard Anício Caldeira Duarte,Everton,MID,0,55,False,0,167,0.0
+James Rodríguez,Everton,MID,0,69,False,0,166,0.0
+Gylfi Sigurdsson,Everton,MID,0,67,False,0,164,0.0
+Scott Banks,Crystal Palace,MID,0,45,False,0,543,0.0
+Vontae Daley-Campbell,Leicester,DEF,0,40,False,0,639,0.0
+Ben Nelson,Leicester,DEF,0,40,False,0,645,0.0
+Harvey Vale,Chelsea,MID,0,45,False,0,672,0.0
+Lewis Hall,Chelsea,MID,0,45,False,0,671,0.0
+Anthony Mancini,Burnley,MID,0,45,False,0,736,0.0
+Dara Costelloe,Burnley,MID,0,45,False,0,726,0.0
+Cody Drameh,Leeds,DEF,0,39,False,126,562,0.0
+Kris Moore,Leeds,DEF,0,40,False,0,657,0.0
+Josh Benson,Burnley,MID,0,45,False,0,116,0.0
+Marc Leonard,Brighton,MID,0,45,False,0,654,0.0
+Nathaniel Phillips,Liverpool,DEF,0,42,False,0,241,0.0
+Alireza Jahanbakhsh,Brighton,MID,0,55,False,0,66,0.0
+Jack Jenkins,Leeds,MID,0,45,False,0,631,0.0
+Jarosław Jach,Crystal Palace,DEF,0,42,False,0,158,0.0
+Martin Kelly,Crystal Palace,DEF,0,38,False,0,151,0.0
+Odeluga Offiah,Brighton,DEF,0,40,False,0,712,0.0
+Josh Martin,Norwich,MID,0,50,False,0,330,0.0
+Julian Jeanvier,Brentford,DEF,0,40,False,0,722,0.0
+Onel Hernández,Norwich,MID,0,49,False,0,320,0.0
+Marco Stiepermann,Norwich,MID,0,50,False,0,316,0.0
+Lucas De Bolle,Newcastle,MID,0,44,False,0,707,0.0
+Elliot Anderson,Newcastle,MID,0,45,False,0,609,0.0
+Bernardo Fernandes Da Silva Junior,Brighton,DEF,0,40,False,0,68,0.0
+Joe White,Newcastle,MID,0,44,False,0,599,0.0
+Michal Karbownik,Brighton,DEF,0,40,False,0,536,0.0
+Haydon Roberts,Brighton,DEF,0,39,False,0,560,0.0
+Matthew Longstaff,Newcastle,MID,0,45,False,0,312,0.0
+Ed Turns,Brighton,DEF,0,40,False,0,653,0.0
+Phil Bardsley,Burnley,DEF,0,39,False,0,99,0.0
+Archie Gray,Leeds,MID,0,45,False,0,658,0.0
+Charlie Savage,Man Utd,MID,0,45,False,0,737,0.0
+Amad Diallo,Man Utd,MID,0,50,False,0,636,0.0
+Bobby Thomas,Burnley,DEF,0,39,False,0,534,0.0
+Owen Dodgson,Burnley,DEF,0,39,False,0,565,0.0
+Andreas Pereira,Man Utd,MID,0,50,False,0,511,0.0
+Romeo Lavia,Man City,MID,0,44,False,0,605,0.0
+Tommy Doyle,Man City,MID,0,45,False,0,566,0.0
+Samuel Edozie,Man City,MID,0,47,False,0,508,0.0
+Ethan Ampadu,Chelsea,DEF,0,45,False,0,139,0.0
+Ben Woodburn,Liverpool,MID,0,45,False,0,553,0.0
+Xherdan Shaqiri,Liverpool,MID,0,59,False,0,226,0.0
+Dion Sanderson,Wolves,DEF,0,40,False,0,686,0.0
+Nohan Kenneh,Leeds,MID,-1,44,False,0,600,-0.022727272727272728
